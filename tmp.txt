@@ -1,0 +1,1 @@
+http://eagain.net/articles/go-json-array-to-struct/
